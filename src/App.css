@@ -3,3 +3,17 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.App {
+  padding-top: 48px;
+  text-align: center;
+}
+
+label {
+  display: block;
+  padding: 6px;
+}
+
+input {
+  margin-bottom: 24px;
+}
